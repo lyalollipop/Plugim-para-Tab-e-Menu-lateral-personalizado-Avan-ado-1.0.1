@@ -1,0 +1,31 @@
+👑 Comandos para Administradores
+(Requer permissão de OP ou customplugin.admin)
+
+/nameserv <Novo Nome>
+
+O que faz: Altera o nome do servidor exibido no topo do TAB e no título do menu lateral em tempo real.
+
+Exemplo: /nameserv &6&lMEU CRAFT (Usa o & para colocar cores!)
+
+/setmoney <Jogador> <Valor>
+
+O que faz: Define um valor exato de dinheiro para o saldo de um jogador específico.
+
+Exemplo: /setmoney Bruninho 5000
+
+/allmoney <Valor>
+
+O que faz: Dá uma quantia de dinheiro para todos os jogadores que estiverem online no servidor naquele exato momento.
+
+Exemplo: /allmoney 1000
+
+👤 Comandos para Todos os Jogadores
+(Qualquer jogador no servidor pode usar livremente)
+
+/stopbar
+
+O que faz: Remove e esconde o menu lateral (Scoreboard) da tela do jogador, caso ele queira mais espaço limpo para jogar.
+
+/startbar
+
+O que faz: Ativa e adiciona novamente o menu lateral no canto direito da tela, mostrando o Nick e o Money atualizados.
